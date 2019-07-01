@@ -11,13 +11,13 @@
  */
 
 /** MySQL database username */
-define( 'YOURLS_DB_USER', 'idemirel' );
+define( 'YOURLS_DB_USER', 'username' );
 
 /** MySQL database password */
-define( 'YOURLS_DB_PASS', 'seLpak23' );
+define( 'YOURLS_DB_PASS', 'password' );
 
 /** The name of the database for YOURLS */
-define( 'YOURLS_DB_NAME', 'grl.tc' );
+define( 'YOURLS_DB_NAME', 'yoursurl.tc' );
 
 /** MySQL hostname.
  ** If using a non standard port, specify it like 'hostname:port', eg. 'localhost:9999' or '127.0.0.1:666' */
